@@ -1,4 +1,4 @@
-I’m Mohammed Rahman A Postgraduate Quantitative finance student with a passion for Machine Learning and Data Analysis. 
+I’m Mohammed, a Postgraduate Quantitative finance student with a passion for Machine Learning and Data Analysis. 
 
 I have accumulated over 4 years of experience in coding Python using statistical and analytical packages such as NumPy, Pandas and Matplotlib. 
 
